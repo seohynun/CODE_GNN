@@ -1,0 +1,34 @@
+# 데이터 처리
+pandas
+numpy
+
+# 시각화
+matplotlib
+plotly
+seaborn
+
+# 네트워크 분석
+networkx
+python-louvain
+
+# 자연어 처리
+nltk
+
+# 머신러닝
+scikit-learn
+scipy
+catboost
+
+# GNN
+# torch는 아래 별도 명령으로 설치:
+# pip install torch --index-url https://download.pytorch.org/whl/cpu
+torch
+torch_geometric
+
+# 대시보드
+gradio
+
+# 주피터
+jupyter
+ipykernel
+nbformat

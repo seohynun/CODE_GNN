@@ -1,0 +1,13 @@
+{
+  "model": "ReviewRGCN",
+  "notebook": "04_Baseline",
+  "nodes": "Review only (78-dim)",
+  "relations": [
+    "R-S-R",
+    "R-Sim-R"
+  ],
+  "n_edges": 1246418,
+  "pr_auc": 0.6041,
+  "macro_f1": 0.5896,
+  "split": "temporal_option_b"
+}

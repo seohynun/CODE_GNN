@@ -1,0 +1,33 @@
+# 원본/샘플 데이터 (YelpZip — 용량 초과 및 재배포 불가, README 참고)
+yelpzip*.csv
+yelpzip*.parquet
+
+# 대시보드 캐시 (07_Dashboard 실행 시 재생성)
+precomputed_dash.parquet
+dashboard_artifacts.pkl
+
+# 학습 로그
+catboost_info/
+
+# 가상환경 / 캐시
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 개인 설정 / 도구
+.claude/
+claude.md
+.gemini/
+.geminiignore
+.gradio/
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+__MACOSX/
+Thumbs.db
+desktop.ini
