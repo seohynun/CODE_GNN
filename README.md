@@ -108,11 +108,14 @@ GNN/
 - [시행착오 과정 정리](docs/process/시행착오_과정_정리.md)
 - [DualRelGNN → FiveRelCAREGNN 전환 기록](docs/process/model_transition_log.md)
 - [피처 엔지니어링 로그](docs/process/feature_log.md)
+- [EDA 결과 해석 및 네트워크 확장 전략](docs/process/EDA_Status_and_Plan.md)
+- [리뷰 네트워크 추출 방식 설명](docs/process/network_extraction_explanation.md)
 
 **발표**
 - [발표 대본 (최종)](docs/presentation/발표_대본_최종.md)
 - [예상 QnA](docs/presentation/예상_QnA.md)
 - [발표 자료 PDF](docs/presentation/경희대학교_빅크크_발표_PDF.pdf)
+- [분석 보고서 PDF](docs/presentation/경희대학교_빅크크_분석보고서_PDF.pdf)
 
 **팀원 정리**
 - [전체 정리](docs/team/전체_정리.md) · [RGCN & PC-GNN 모델 정리](docs/team/RGCN_PC-GNN_모델_정리.md)
